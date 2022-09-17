@@ -1,0 +1,56 @@
+.full{
+    font-family:'Courier New', Courier, monospace;
+    background-color: black;
+    color:white;
+}
+
+.navbar-header a{
+    color:white;
+    font-weight: bold;
+}
+.navbar-header a:hover{
+    color:whitesmoke !important;
+}
+
+li a{
+    font-weight: bold;
+}
+
+li a:hover{
+    color:whitesmoke !important;
+
+}
+
+.page_heading{
+    text-align: center;
+    font-size:2.4vw;
+    font-weight: bold;
+    padding-top: 2.4%;
+    padding-bottom: 2.4%;
+}
+
+.card-title{
+    font-size: 2.2vw;
+    font-weight: bold;
+}
+
+.card-body{
+    margin-left: 15%;
+    margin-right: 29%;
+    padding-left: 0%;
+    padding-bottom: 35px;
+    font-size: 1.4vw;
+}
+
+#button{
+    margin-left:0px;
+}
+
+#navbarSupportedContent{
+    padding-top:20px;   
+}
+
+#nav{
+    background-color: darkbrown;
+}
+
