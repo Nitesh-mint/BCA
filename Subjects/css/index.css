@@ -30,7 +30,7 @@ li a:hover{
 }
 
 .card-title{
-    font-size: 2.2vw;
+    font-size: 5vw;
     font-weight: bold;
 }
 
@@ -39,7 +39,7 @@ li a:hover{
     margin-right: 29%;
     padding-left: 0%;
     padding-bottom: 35px;
-    font-size: 1.4vw;
+    font-size: 2.5vw;
 }
 
 #button{
