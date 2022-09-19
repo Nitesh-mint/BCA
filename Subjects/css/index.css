@@ -54,3 +54,23 @@ li a:hover{
     background-color: darkbrown;
 }
 
+.btn-outline-primary {
+    width: 100px !important;
+    max-width: 100% !important;
+    max-height: 100% !important;
+    height: 100px !important;
+    text-align: center;
+    padding: 0px;
+    font-size:12px;
+    background-color: green;
+    float:center;
+    }
+
+#list{
+    background-color: whitesmoke;
+    padding-top :20px;   
+}
+
+#assign{
+    font-size: 3.2vw;
+}
