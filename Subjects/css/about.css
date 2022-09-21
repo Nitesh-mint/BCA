@@ -1,0 +1,30 @@
+html{
+    box-sizing: border-box;
+}
+.column{
+    float: left;
+    width: 30%;
+    margin-bottom: 16px;
+
+}
+.skill{
+    margin-bottom: 10px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    height: 100%;
+  
+}
+
+.full{
+    font-family:'Poppins';
+    background-color: black;
+    color:white;
+}
+
+#nitesh{
+    float: right;
+    margin-right:10%;
+}   
