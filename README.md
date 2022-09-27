@@ -1,1 +1,1 @@
-Class website
+Class website to share assignments
