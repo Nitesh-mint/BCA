@@ -1,3 +1,11 @@
+*{
+box-sizing : border-box;
+}
+
+.button-group{
+  display : flex; 
+  justify-content:center;
+}
 .b-group{
     display: flex;
     flex-wrap:wrap;
@@ -13,7 +21,7 @@ color: #FFFAFA;
 text-align: center;
 font-size: 22px;
 padding: 18px ;
-width: 200px;
+width: auto;
 transition: all 0.5s;
 cursor: pointer;
 margin: 5px;

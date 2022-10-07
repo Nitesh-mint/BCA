@@ -1,6 +1,9 @@
+*{
+    box-sizing: border-box;
+}
 .full{
     font-family:'Poppins';
-    background-color: black;
+    background-color: rgb(51, 50, 50);
     color:white;
 }
 
@@ -30,7 +33,7 @@ li a:hover{
 }
 
 .card-title{
-    font-size: 5vw;
+    font-size: 4rem;
     font-weight: bold;
 }
 
